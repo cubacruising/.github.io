@@ -1,0 +1,1688 @@
+{
+  "settings": {
+    "currentPage": "Cuba Cruising",
+    "versionFirst": "3.5.2",
+    "versionPublish": "3.12.1",
+    "name": "Cuba Cruising",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true,
+        "isRtl": false
+      }
+    },
+    "scrollAnimation": "true",
+    "favicon": "",
+    "noImageResize": "",
+    "uniqCompNum": 16
+  },
+  "pages": {
+    "Cuba Cruising": {
+      "settings": {
+        "main": true,
+        "title": "Cuba Cruising",
+        "meta_descr": "Cuba Cruising ... We are a tour company desiged to bring fun and culture to our custumers, for this reason we are as flexible as we can be. While our fixed trips are certanly fun you are just an email away to tell us the expectations for your trip to Cuba and let us design and build the trip of your dreams. ",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-2",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#323232",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 Mobirise."
+        },
+        {
+          "_name": "slider3",
+          "_styles": {
+            "H2": {
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "text-align": "right",
+              "color": "#fac51c",
+              "font-size": "48px"
+            },
+            "P": {
+              "font-size": "20px",
+              "text-align": "right",
+              "color": "#efefef"
+            },
+            "B": {
+              "color": "#efefef",
+              "font-size": "13px"
+            },
+            "SPAN": {
+              "color": "#efefef"
+            }
+          },
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": "9",
+            "slides": [
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/cuba-havana-promenade-hdr-59175-3840x2400-2000x1250-69.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.5",
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "Cuba Cruising",
+                "showText": true,
+                "text": "Dear Travel Lovers,<br>Please allow me to introduce you to the exciting tour of Cuba Cruising, where you will find enticing gay tours for LGBT travelers and their friends. Cuba Cruising emerged out of the growing need for a greater selection of upscale, escorted tours for the gay travel audience.<br>It would be challenging and time-consuming for individuals to arrange the variety of activities and in-depth cultural exploration. Therefore, we design tours to individuals or small group travelers ensuring an intimacy and camaraderie between group members and with the professional guide who accompanies each vacation.<br>We invite you to explore this site. We think you’ll find trips that you want to know more about. If we’re right, then please contact us and let us know what questions we can answer for you. Join us and Venture Out . . .!!!<br>",
+                "showButtons": false,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#gallery3-0\" data-toolbar=\"-mbrBtnMove\">see more</a> "
+              },
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/694097-2000x1328-11.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.5",
+                "overlayColor": "#000000",
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "Cuba Cruising Day Tours",
+                "showText": true,
+                "text": "Havana is &nbsp;maybe the less explored capital city within the American Continent, you'll see for yourself how the 50's and the 80's blends to the present time, we'll show you the LGBT comunity daily life and all the mysticism this great city has to share. &nbsp;",
+                "showButtons": true,
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#gallery4-1\" data-toolbar=\"-mbrBtnMove\">Day Tours</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#form1-0\" data-toolbar=\"-mbrBtnMove\"><span class=\"etl-icon icon-chat mbr-iconfont mbr-iconfont-btn\"></span>Tell me more</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2016-08-23-at-13-2000x1135-73.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.5",
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "Cuba Cruising Beach Tour",
+                "showText": true,
+                "text": "<span style=\"line-height: 1.5;\">Cuba is the biggest Caribbean island, very well located between the Tropics, this gives you the oportunity to experience some of the best gay beaches of the world.</span><br><span style=\"line-height: 1.5;\">Sun and Fun will be awaiting for you along with the chance of finding new love and friends.</span><span style=\"line-height: 1.5;\"><br></span><br>",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#gallery4-1\" data-toolbar=\"-mbrBtnMove\">Beach Tours</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#form1-0\" data-toolbar=\"-mbrBtnMove\"><span class=\"etl-icon icon-chat mbr-iconfont mbr-iconfont-btn\"></span>Tell me more</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/41737047-havana-wallpapers-2000x1125-56.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.3",
+                "overlayColor": "#000000",
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "Cuba Cruising Night Tours",
+                "showText": true,
+                "text": "Want to discover how night life is in modern Havana?... Or even better... Do you want to know the feeling of being driven back to the night life of decades ago?<br>Just take our hand and let us introduce &nbsp;you and your friends the magic of havana nighttime, lets walk, ride a vintage car, meet people and dance!!&nbsp;",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#gallery4-1\" data-toolbar=\"-mbrBtnMove\">Night Tours</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#form1-0\" data-toolbar=\"-mbrBtnMove\"><span class=\"etl-icon icon-chat mbr-iconfont mbr-iconfont-btn\"></span>Tell me more</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2016-08-18-at-21-2000x1106-42.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.3",
+                "overlayColor": "#000000",
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "Cuba Cruising Late Night Tour",
+                "showText": true,
+                "text": "It's Party Time...!!!&nbsp;",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#gallery4-1\" data-toolbar=\"-mbrBtnMove\">Late Night Tour</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#form1-0\" data-toolbar=\"-mbrBtnMove\"><span class=\"etl-icon icon-chat mbr-iconfont mbr-iconfont-btn\"></span>Tell me more</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2016-08-23-at-12-2000x1107-18.png",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.5",
+                "overlayColor": "#000000",
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "Cuba Cruising Whole Cuba Tour",
+                "showText": true,
+                "text": "We offer the best oportunity for LGBT travellers and their friends to see all Cuba from East to West, discover Cuba gay scene combined with culture, nightlife, country side in all 14 provinces... The most exiting tour for those who loves fun and culture to the most...!!! &nbsp; &nbsp;",
+                "showButtons": true,
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"index.html#gallery4-1\" data-toolbar=\"-mbrBtnMove\">Whole Cuba Tour</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#form1-0\" data-toolbar=\"-mbrBtnMove\"><span class=\"etl-icon icon-chat mbr-iconfont mbr-iconfont-btn\"></span>Tell me more</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#fff",
+            "showBullets": true
+          },
+          "_anchor": "slider3-0",
+          "articleLayout": false
+        },
+        {
+          "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            }
+          },
+          "_anchor": "features1-0",
+          "_params": {
+            "columnsColor": "#2e2e2e",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#78ccbb",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "4",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cubagaymarch-600x340-62.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "gay parade",
+              "title": "gay parade",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "We Offer....",
+          "subtitle1": "",
+          "caption1": "Very comfortable accommodations and memorable dining are keystones of Cuba Cruising trip experience. flexibility, a spirit of adventure, and enthusiasm for new people and places are the most important qualities for our guests to possess. We welcome gay travelers (and their friends and families) to approach their journeys with a sense of curiosity about the culture they will visit.<br><br><br><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/20170422-042525-600x337-12.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "gay beach",
+              "title": "gay beach",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "About Us...",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "We are a company desiged to bring fun and culture to our custumers, for this reason we are as flexible as we can be. While our fixed trips are certanly fun you are just an email away to tell us the expectations for your trip to Cuba and let us design and build the trip of your dreams. Get in touch and “feel us out” .You will find that our trips are awsome and fits the bill.<br><br><br> ",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/694097-600x398-82.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "capitol",
+              "title": "capitol",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "What we do...",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "We are unique within the gay travel – Cuba Cruising consists of designing superlative, escorted gay tours for individuals or small groups for savvy gay and lesbian travelers who desire the stress-free ease of an organized guided vacation and who like their comforts. Our trips are insightful, fun, and casual. And while we relieve you of the effort of planning a finely tuned vacation, you won’t feel herded on our tours. Our aim is to enable our guests not simply to see Cuba but to experience it and appreciate it. ",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/screenshot-2016-10-29-14-27-24-1-01-600x600-69.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "yass lan",
+              "title": "yass lan",
+              "linkInNewWindow": false
+            }
+          },
+          "title4": "Meet our team...",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "We relay on a large bench of fitted models that are not only a pretty face and body but they`re also licensed tour guides. Cultural and Gay life information are garanteed. Our male and female guides are homosexual.<br>Please contact us for guides availability.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-a",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#78ccbb",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2016-08-21-at-19-1400x921-14.png",
+              "link": "",
+              "alt": "pick up",
+              "title": "pick up",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Airport Pick Up",
+          "text": "Travellers can feel lost, specially first timers, at your airport arrival, for some travellers could be hard to get to their acomodation, there's the fear of being overcharged or you simply have questions to ask.. Don't worry, Cuba Cruising is here for you..!!<br>One of our representatives will be waiting for you to safely drive you and attend any of your last time request..",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"Cuba Cruising#form1-0\" data-toolbar=\"-mbrBtnMove\"><span class=\"etl-icon icon-chat mbr-iconfont mbr-iconfont-btn\"></span>Tell me more</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-b",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#78ccbb",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/23-1400x954-56.png",
+              "link": "",
+              "alt": "Acommodation",
+              "title": "Acommodation",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Accommodation Follow Up",
+          "text": "We offer acomodation on any of the two modalities available in Cuba, Hotel and Casas Particulares, we'll be pleased to book an acomodation for you, but if you want to acomodate yourself then we will be also more than happy to help you... We are here to serve..!! We strongly recomend Gay Friendly Casas Particulares based on the tours plans we offer.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"Cuba Cruising#form1-0\" data-toolbar=\"-mbrBtnMove\"><span class=\"etl-icon icon-chat mbr-iconfont mbr-iconfont-btn\"></span>Tell me more</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-c",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#78ccbb",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2016-08-23-at-13-1400x920-82.png",
+              "link": "",
+              "alt": "Tours",
+              "title": "Tours",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Cuba Cruising Tours",
+          "text": "What we provide is a travel experience that is fashioned from carefully selected programs of insightfull<br>&nbsp;cultural sightseeing and/or outdoor activities. We'll not only take you off the beating track, but we'll also take you to some exciting well-trodden spots where we'll show you the uniqueness and subtlety that most tourist never dream of. escorted gay tours activities will vary on every trip, some are culturally oriented and few may be more focused on soft adventure.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"Cuba Cruising#form1-0\" data-toolbar=\"-mbrBtnMove\"><span class=\"etl-icon icon-chat mbr-iconfont mbr-iconfont-btn\"></span>Tell me more</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-d",
+          "_params": {
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#78ccbb",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/82790603-marchap-1400x786-99.jpg",
+              "link": "",
+              "alt": "Special Requests",
+              "title": "Special Requests",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Special Requests",
+          "text": "We attend any special request..!!! Cuba Cruising keystone is to fully satisfy our clients, therefore is our goal to always keep your spectations, that's why we are as flexible as we can be, always keeping up with you!! We have a wide set of fixed tours, but guess what?! You can also tell us where to take you!!<br>Cuba Cruising is more than a simple tour company, we.. the LGBT community.. should stick together, we strongly belive we should help each other, that's why you can tell us any need you have.. &nbsp;&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"Cuba Cruising#form1-0\" data-toolbar=\"-mbrBtnMove\"><span class=\"etl-icon icon-chat mbr-iconfont mbr-iconfont-btn\"></span>Tell me more</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content2-7",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#78ccbb"
+          },
+          "text": "<blockquote><p><b style=\"font-style: normal;\">Brief Tours Info: </b></p><p><b>Just a general view of our fixed tours are shown here...... for each particular tour detailed description, buying, personalizing or change please hit the buttom bellow, we'll be more than pleased to send you detailed or personalized tour information.</b></p></blockquote>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-8",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#78ccbb"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"index.html#form1-0\" data-toolbar=\"-mbrBtnMove\"><span class=\"etl-icon icon-chat mbr-iconfont mbr-iconfont-btn\"></span>Tell me more</a> "
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery4",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Beach, Daytime",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1-2000x1324-7-800x529-70.png",
+                "image": "@PROJECT_PATH@/assets/images/1-2000x1324-7.png",
+                "caption": "Gay Beach Picnic",
+                "active": false
+              },
+              {
+                "tags": "Beach, Daytime, Nighttime",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1a-2000x1335-83-800x534-69.png",
+                "image": "@PROJECT_PATH@/assets/images/1a-2000x1335-83.png",
+                "caption": "Varadero Bar and Beach",
+                "active": false
+              },
+              {
+                "tags": "Beach, Nighttime",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/1b-2000x1333-11-800x533-34.png",
+                "image": "@PROJECT_PATH@/assets/images/1b-2000x1333-11.png",
+                "caption": "Late Gay Beach Picnic",
+                "active": false
+              },
+              {
+                "tags": "Daytime",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2a-2000x1322-23-800x528-59.png",
+                "image": "@PROJECT_PATH@/assets/images/2a-2000x1322-23.png",
+                "caption": "Hemmingway Footprints",
+                "active": false
+              },
+              {
+                "tags": "Daytime",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2b-2000x1324-10-800x529-57.png",
+                "image": "@PROJECT_PATH@/assets/images/2b-2000x1324-10.png",
+                "caption": "Contemporary Cuba",
+                "active": false
+              },
+              {
+                "tags": "Daytime",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2c-2000x1320-49-800x528-16.png",
+                "image": "@PROJECT_PATH@/assets/images/2c-2000x1320-49.png",
+                "caption": "50`s Drive Back",
+                "active": false
+              },
+              {
+                "tags": "Daytime",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2d-2000x1328-52-800x531-40.png",
+                "image": "@PROJECT_PATH@/assets/images/2d-2000x1328-52.png",
+                "caption": "Adventure",
+                "active": false
+              },
+              {
+                "tags": "Daytime",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2e-2000x1324-73-800x529-45.png",
+                "image": "@PROJECT_PATH@/assets/images/2e-2000x1324-73.png",
+                "caption": "Modern Havana",
+                "active": false
+              },
+              {
+                "tags": "Daytime",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2f-2000x1315-56-800x526-20.png",
+                "image": "@PROJECT_PATH@/assets/images/2f-2000x1315-56.png",
+                "caption": "Havana Vieja (south Side)",
+                "active": false
+              },
+              {
+                "tags": "Daytime",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2g-2000x1329-21-800x531-44.png",
+                "image": "@PROJECT_PATH@/assets/images/2g-2000x1329-21.png",
+                "caption": "Havana Vieja(North Side)",
+                "active": false
+              },
+              {
+                "tags": "Daytime",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2h-2000x1330-53-800x532-70.png",
+                "image": "@PROJECT_PATH@/assets/images/2h-2000x1330-53.png",
+                "caption": "Havana Sky View",
+                "active": false
+              },
+              {
+                "tags": "Daytime",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2i-2000x1327-21-800x530-6.png",
+                "image": "@PROJECT_PATH@/assets/images/2i-2000x1327-21.png",
+                "caption": "African Adventure",
+                "active": false
+              },
+              {
+                "tags": "Late Night",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3-2000x1328-53-800x531-54.png",
+                "image": "@PROJECT_PATH@/assets/images/3-2000x1328-53.png",
+                "caption": "Late Night Tour",
+                "active": false
+              },
+              {
+                "tags": "Nighttime",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3a-2000x1324-46-800x529-53.png",
+                "image": "@PROJECT_PATH@/assets/images/3a-2000x1324-46.png",
+                "caption": "Havana Vieja Lights (South Side)",
+                "active": false
+              },
+              {
+                "tags": "Nighttime",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3b-2000x1327-2-800x530-23.png",
+                "image": "@PROJECT_PATH@/assets/images/3b-2000x1327-2.png",
+                "caption": "THavana Vieja Lights(north Side)",
+                "active": false
+              },
+              {
+                "tags": "Nighttime",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3c-2000x1330-83-800x532-70.png",
+                "image": "@PROJECT_PATH@/assets/images/3c-2000x1330-83.png",
+                "caption": "Havana Night Gay Life",
+                "active": false
+              },
+              {
+                "tags": "Nighttime",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3d-2000x1328-9-800x531-35.png",
+                "image": "@PROJECT_PATH@/assets/images/3d-2000x1328-9.png",
+                "caption": "50`s Night Drive Back",
+                "active": false
+              },
+              {
+                "tags": "Beach, Daytime, Nighttime, Late Night, Whole Cuba",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/4-2000x1335-5-800x534-54.png",
+                "image": "@PROJECT_PATH@/assets/images/4-2000x1335-5.png",
+                "caption": "Whole Cuba Tour",
+                "active": true
+              },
+              {
+                "tags": "Daytime",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2j-2000x1324-15-800x529-89.png",
+                "image": "@PROJECT_PATH@/assets/images/2j-2000x1324-15.png",
+                "caption": "Natural Cuba",
+                "active": false
+              },
+              {
+                "tags": "Daytime",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2k-2000x1327-44-800x530-55.png",
+                "image": "@PROJECT_PATH@/assets/images/2k-2000x1327-44.png",
+                "caption": "Pinar del Rio",
+                "active": false
+              },
+              {
+                "tags": "Special Requests",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/5-2000x1330-13-800x532-34.png",
+                "image": "@PROJECT_PATH@/assets/images/5-2000x1330-13.png",
+                "caption": "Special Requests<br>",
+                "active": false
+              }
+            ],
+            "spacing": 1,
+            "showText": true,
+            "filter": true,
+            "bgColor": "#78ccbb",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery4-1",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "font-size": "36px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "#c0a375"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-0",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "#c0a375",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/cuba-cruising-logo-2-113x128-4.png",
+              "height": 128,
+              "alt": "Cuba Cruising",
+              "link": "index.html",
+              "title": "Click to go HOME",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "desktop",
+              "family": "et-line",
+              "link": "https://mobirise.com",
+              "size": "100",
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-warning\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Cuba Cruising</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"Cuba Cruising#gallery1-5\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Cuba Cruising</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cuba Cruising#features1-0\">Who we are</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Our Services</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cuba Cruising#msg-box5-a\">Pick up and Trasnportation</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cuba Cruising#msg-box5-b\">Accommodation Follow Up</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cuba Cruising#msg-box5-c\">Cuba Cruising Tours</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cuba Cruising#msg-box5-d\">Special Requets</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" aria-expanded=\"false\" data-toggle=\"dropdown-submenu\">Tours</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cuba Cruising#content2-7\">Tours Brief Info</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Cuba Cruising#gallery4-1\">Fixed Tours</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Cuba Cruising#gallery1-5\" aria-expanded=\"false\">Gallery</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Cuba Cruising#form1-0\" aria-expanded=\"false\">Contact Us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Cuba Cruising#content7-0\" aria-expanded=\"false\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Gay Beaches",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2016-08-18-at-21-2000x1299-95-800x519-88.png",
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2016-08-18-at-21-2000x1299-95.png",
+                "caption": "Havana Gay Beach",
+                "active": false
+              },
+              {
+                "tags": "Gay Beaches",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2016-08-23-at-13-2000x1307-27-800x522-59.png",
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2016-08-23-at-13-2000x1307-27.png",
+                "caption": "Varadero Gay Beach",
+                "active": false
+              },
+              {
+                "tags": "Marinas",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/marina-hemmingway-2000x1284-47-800x513-80.png",
+                "image": "@PROJECT_PATH@/assets/images/marina-hemmingway-2000x1284-47.png",
+                "caption": "Hemmingway Marina",
+                "active": false
+              },
+              {
+                "tags": "Museums",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/finca-vigia-2000x1414-15-800x565-58.png",
+                "image": "@PROJECT_PATH@/assets/images/finca-vigia-2000x1414-15.png",
+                "caption": "Finca Vigia",
+                "active": false
+              },
+              {
+                "tags": "Museums",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/cementerio-2000x1378-56-800x551-40.png",
+                "image": "@PROJECT_PATH@/assets/images/cementerio-2000x1378-56.png",
+                "caption": "Christopher Culumbus Cementery",
+                "active": false
+              },
+              {
+                "tags": "Museums",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/morro1-2000x1392-11-800x556-88.png",
+                "image": "@PROJECT_PATH@/assets/images/morro1-2000x1392-11.png",
+                "caption": "Fort El Morro",
+                "active": false
+              },
+              {
+                "tags": "Museums",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/museo-bellas-artes1-2000x1272-18-800x508-6.png",
+                "image": "@PROJECT_PATH@/assets/images/museo-bellas-artes1-2000x1272-18.png",
+                "caption": "Bellas Artes (Arte Cubano)",
+                "active": false
+              },
+              {
+                "tags": "Museums",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/museo-bellas-artes2-2000x1226-56-800x490-47.png",
+                "image": "@PROJECT_PATH@/assets/images/museo-bellas-artes2-2000x1226-56.png",
+                "caption": "Bellas Artes (Arte Universal)",
+                "active": false
+              },
+              {
+                "tags": "Museums",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/museo-el-ron-2000x1204-59-800x481-86.png",
+                "image": "@PROJECT_PATH@/assets/images/museo-el-ron-2000x1204-59.png",
+                "caption": "Havana Club&nbsp;",
+                "active": false
+              },
+              {
+                "tags": "Museums",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/palacio-de-la-revolucion1-2000x1328-40-800x531-83.png",
+                "image": "@PROJECT_PATH@/assets/images/palacio-de-la-revolucion1-2000x1328-40.png",
+                "caption": "Palacio de la Revolucion",
+                "active": false
+              },
+              {
+                "tags": "Museums",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/plaza-de-la-revolucion-2000x1138-23-800x455-98.png",
+                "image": "@PROJECT_PATH@/assets/images/plaza-de-la-revolucion-2000x1138-23.png",
+                "caption": "Plaza de la Revolucion",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/callejon-los-peluqueros-2000x1139-77-800x455-0.png",
+                "image": "@PROJECT_PATH@/assets/images/callejon-los-peluqueros-2000x1139-77.png",
+                "caption": "Callejon de los Peluqueros",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/casa-de-la-cerveza-2000x1124-37-800x449-43.png",
+                "image": "@PROJECT_PATH@/assets/images/casa-de-la-cerveza-2000x1124-37.png",
+                "caption": "Casa de la Ceveza",
+                "active": false
+              },
+              {
+                "tags": "Schools",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/comtemporary-2000x1117-35-800x446-86.png",
+                "image": "@PROJECT_PATH@/assets/images/comtemporary-2000x1117-35.png",
+                "caption": "Cuba Contemporary Dance School",
+                "active": false
+              },
+              {
+                "tags": "Schools, Museums",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/universidad-de-la-havana-2000x1504-36-800x601-89.png",
+                "image": "@PROJECT_PATH@/assets/images/universidad-de-la-havana-2000x1504-36.png",
+                "caption": "University of Havana",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/planatarium-2000x1386-10-800x554-58.png",
+                "image": "@PROJECT_PATH@/assets/images/planatarium-2000x1386-10.png",
+                "caption": "Planetarium",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/plaza-vieja-2000x1329-34-800x531-0.png",
+                "image": "@PROJECT_PATH@/assets/images/plaza-vieja-2000x1329-34.png",
+                "caption": "Plaza Vieja",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vendors-plaza1-2000x1327-80-800x530-25.png",
+                "image": "@PROJECT_PATH@/assets/images/vendors-plaza1-2000x1327-80.png",
+                "caption": "Vendors Plaza",
+                "active": false
+              },
+              {
+                "tags": "Museums",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/capitolio-2000x1125-8-800x450-43.jpg",
+                "image": "@PROJECT_PATH@/assets/images/capitolio-2000x1125-8.jpg",
+                "caption": "Capitolio Nacional",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/catedral-2000x1125-47-800x450-51.jpg",
+                "image": "@PROJECT_PATH@/assets/images/catedral-2000x1125-47.jpg",
+                "caption": "Catedral de la Havana",
+                "active": false
+              },
+              {
+                "tags": "Promenade",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/paseo-del-prado-2000x1328-71-800x531-91.jpg",
+                "image": "@PROJECT_PATH@/assets/images/paseo-del-prado-2000x1328-71.jpg",
+                "caption": "Paseo del Prado Promenade",
+                "active": false
+              },
+              {
+                "tags": "Cruising Areas",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/malecon-2000x1125-50-800x450-73.jpg",
+                "image": "@PROJECT_PATH@/assets/images/malecon-2000x1125-50.jpg",
+                "caption": "Malecon de la Havana",
+                "active": false
+              },
+              {
+                "tags": "Cruising Areas",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/23-2000x1363-6-800x545-65.png",
+                "image": "@PROJECT_PATH@/assets/images/23-2000x1363-6.png",
+                "caption": "Calle 23",
+                "active": false
+              },
+              {
+                "tags": "Cruising Areas",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/yara-2000x1324-35-800x529-77.png",
+                "image": "@PROJECT_PATH@/assets/images/yara-2000x1324-35.png",
+                "caption": "Cine Yara",
+                "active": false
+              },
+              {
+                "tags": "Cruising Areas",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/c360-2015-09-02-23-06-51-790-2000x1133-84-800x453-65.jpg",
+                "image": "@PROJECT_PATH@/assets/images/c360-2015-09-02-23-06-51-790-2000x1133-84.jpg",
+                "caption": "Central Park",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/c360-2015-09-02-23-14-54-875-2000x1133-51-800x453-78.jpg",
+                "image": "@PROJECT_PATH@/assets/images/c360-2015-09-02-23-14-54-875-2000x1133-51.jpg",
+                "caption": "Art Galleries",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/c360-2015-09-02-23-06-26-035-2000x3529-34-800x1411-51.jpg",
+                "image": "@PROJECT_PATH@/assets/images/c360-2015-09-02-23-06-26-035-2000x3529-34.jpg",
+                "caption": "Gran Teatro de la Havana",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/c360-2015-09-02-23-08-16-970-2000x1133-31-800x453-47.jpg",
+                "image": "@PROJECT_PATH@/assets/images/c360-2015-09-02-23-08-16-970-2000x1133-31.jpg",
+                "caption": "Calle Obispo",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/c360-2015-09-02-23-10-27-101-2000x1133-53-800x453-57.jpg",
+                "image": "@PROJECT_PATH@/assets/images/c360-2015-09-02-23-10-27-101-2000x1133-53.jpg",
+                "caption": "Cafe",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/c360-2015-09-02-23-13-53-009-2000x1133-15-800x453-96.jpg",
+                "image": "@PROJECT_PATH@/assets/images/c360-2015-09-02-23-13-53-009-2000x1133-15.jpg",
+                "caption": "Old Warehouse of &nbsp;Wood and Tobacco",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/c360-2015-09-02-23-17-33-058-2000x1133-14-800x453-28.jpg",
+                "image": "@PROJECT_PATH@/assets/images/c360-2015-09-02-23-17-33-058-2000x1133-14.jpg",
+                "caption": "Cruiseship Dock",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/smartcamera-2015-10-09-00-14-38-006-2000x1125-46-800x450-56.jpg",
+                "image": "@PROJECT_PATH@/assets/images/smartcamera-2015-10-09-00-14-38-006-2000x1125-46.jpg",
+                "caption": "Fabrica de Arte Cubano",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20161028-154440-2000x1125-94-800x450-87.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20161028-154440-2000x1125-94.jpg",
+                "caption": "Baseball Games",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/20161029-222420-2000x1125-15-800x450-82.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20161029-222420-2000x1125-15.jpg",
+                "caption": "Cuban Popular Music",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/maqueta-de-la-havana-2000x1325-12-800x530-10.png",
+                "image": "@PROJECT_PATH@/assets/images/maqueta-de-la-havana-2000x1325-12.png",
+                "caption": "Maqueta de la Havana",
+                "active": false
+              },
+              {
+                "tags": "Museums",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2017-01-03-at-12-2000x1018-73-800x407-6.png",
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2017-01-03-at-12-2000x1018-73.png",
+                "caption": "Castillo de la Real Fuerza",
+                "active": false
+              },
+              {
+                "tags": "Promenade",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/c360-2015-09-02-23-16-28-355-2000x1133-15-800x453-57.jpg",
+                "image": "@PROJECT_PATH@/assets/images/c360-2015-09-02-23-16-28-355-2000x1133-15.jpg",
+                "caption": "Avenida del Puerto",
+                "active": false
+              },
+              {
+                "tags": "Museums",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/28-de-septiempre-2000x1329-27-800x531-29.png",
+                "image": "@PROJECT_PATH@/assets/images/28-de-septiempre-2000x1329-27.png",
+                "caption": "Museo 28 de Septiembre",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/acuario-nacional-2000x1330-46-800x532-34.png",
+                "image": "@PROJECT_PATH@/assets/images/acuario-nacional-2000x1330-46.png",
+                "caption": "Acuario Nacional de Cuba",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ambos-mundos-2000x1496-14-800x598-71.png",
+                "image": "@PROJECT_PATH@/assets/images/ambos-mundos-2000x1496-14.png",
+                "caption": "Hotel Ambos Mundos",
+                "active": false
+              },
+              {
+                "tags": "Museums",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/armeria-2000x1225-98-800x490-69.png",
+                "image": "@PROJECT_PATH@/assets/images/armeria-2000x1225-98.png",
+                "caption": "Museo 9 de Abril",
+                "active": false
+              },
+              {
+                "tags": "Museums",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ballet-nacional-2000x1109-70-800x443-34.png",
+                "image": "@PROJECT_PATH@/assets/images/ballet-nacional-2000x1109-70.png",
+                "caption": "Ballet Nacional de Cuba",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bosque-de-la-havana-2000x1228-91-800x491-15.png",
+                "image": "@PROJECT_PATH@/assets/images/bosque-de-la-havana-2000x1228-91.png",
+                "caption": "Parque Metropolitano de la Havana",
+                "active": false
+              },
+              {
+                "tags": "Museums",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/caja-registradora-2000x1341-21-800x536-26.png",
+                "image": "@PROJECT_PATH@/assets/images/caja-registradora-2000x1341-21.png",
+                "caption": "Museo de la Caja Registradora",
+                "active": false
+              },
+              {
+                "tags": "Museums",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/casa-de-africa-2000x1334-76-800x533-43.png",
+                "image": "@PROJECT_PATH@/assets/images/casa-de-africa-2000x1334-76.png",
+                "caption": "Museo Casa de Africa",
+                "active": false
+              },
+              {
+                "tags": "Museums",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/casa-guayasamin-2000x1311-76-800x524-6.png",
+                "image": "@PROJECT_PATH@/assets/images/casa-guayasamin-2000x1311-76.png",
+                "caption": "Museo Casa Guayasamin",
+                "active": false
+              },
+              {
+                "tags": "Museums",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ciencias-2000x1127-41-800x450-95.png",
+                "image": "@PROJECT_PATH@/assets/images/ciencias-2000x1127-41.png",
+                "caption": "Museo de Ciencias Carlos J. Finlay",
+                "active": false
+              },
+              {
+                "tags": "Museums",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/comunicaciones-2000x1503-35-800x601-18.png",
+                "image": "@PROJECT_PATH@/assets/images/comunicaciones-2000x1503-35.png",
+                "caption": "Museo de las Comunicaciones",
+                "active": false
+              },
+              {
+                "tags": "Museums",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/farmacia-2000x1116-21-800x446-53.png",
+                "image": "@PROJECT_PATH@/assets/images/farmacia-2000x1116-21.png",
+                "caption": "Museo Farmaceutico",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/floridita-2000x1201-93-800x480-89.png",
+                "image": "@PROJECT_PATH@/assets/images/floridita-2000x1201-93.png",
+                "caption": "Bar Floridita",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/galleria-de-arte-paseo-de-puerto-2000x1239-13-800x495-98.png",
+                "image": "@PROJECT_PATH@/assets/images/galleria-de-arte-paseo-de-puerto-2000x1239-13.png",
+                "caption": "Avenida del Puerto",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/havana-libre-2000x1857-88-800x742-71.png",
+                "image": "@PROJECT_PATH@/assets/images/havana-libre-2000x1857-88.png",
+                "caption": "Hotel Habana Libre",
+                "active": false
+              },
+              {
+                "tags": "Cruising Areas",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/hotel-colina-2000x1346-68-800x538-39.png",
+                "image": "@PROJECT_PATH@/assets/images/hotel-colina-2000x1346-68.png",
+                "caption": "Hotel Colina",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/jardin-botanico-2000x1180-92-800x472-66.png",
+                "image": "@PROJECT_PATH@/assets/images/jardin-botanico-2000x1180-92.png",
+                "caption": "Jardin Botanico de la Havana",
+                "active": true
+              },
+              {
+                "tags": "Other",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/labodeguita-del-medio-2000x1407-72-800x562-26.png",
+                "image": "@PROJECT_PATH@/assets/images/labodeguita-del-medio-2000x1407-72.png",
+                "caption": "La Bodeguita del Medio",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lenin-2000x1500-61-800x600-48.png",
+                "image": "@PROJECT_PATH@/assets/images/lenin-2000x1500-61.png",
+                "caption": "Parque Lenin",
+                "active": false
+              },
+              {
+                "tags": "Museums",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lezama-lima-2000x1429-21-800x571-7.png",
+                "image": "@PROJECT_PATH@/assets/images/lezama-lima-2000x1429-21.png",
+                "caption": "Museo Jose Lezama Lima",
+                "active": false
+              },
+              {
+                "tags": "Museums",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/museo-chocolate-2000x1259-59-800x503-87.png",
+                "image": "@PROJECT_PATH@/assets/images/museo-chocolate-2000x1259-59.png",
+                "caption": "Museo del Chocolate",
+                "active": false
+              },
+              {
+                "tags": "Museums",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/museo-naipes-2000x1201-42-800x480-94.png",
+                "image": "@PROJECT_PATH@/assets/images/museo-naipes-2000x1201-42.png",
+                "caption": "Museo de Naipes",
+                "active": false
+              },
+              {
+                "tags": "Museums",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/musica-2000x1400-91-800x560-28.png",
+                "image": "@PROJECT_PATH@/assets/images/musica-2000x1400-91.png",
+                "caption": "Museo de la Musica",
+                "active": false
+              },
+              {
+                "tags": "Museums",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/numismatico-2000x1493-50-800x597-6.png",
+                "image": "@PROJECT_PATH@/assets/images/numismatico-2000x1493-50.png",
+                "caption": "Museo Numismatico",
+                "active": false
+              },
+              {
+                "tags": "Museums",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/orfebreria-2000x1335-36-800x534-94.png",
+                "image": "@PROJECT_PATH@/assets/images/orfebreria-2000x1335-36.png",
+                "caption": "Museo de la Orfebreria",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/parque-de-la-libertad-2000x1630-93-800x652-79.png",
+                "image": "@PROJECT_PATH@/assets/images/parque-de-la-libertad-2000x1630-93.png",
+                "caption": "Paque de la Libertad",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/sloppy-joes-2000x1067-40-800x426-99.png",
+                "image": "@PROJECT_PATH@/assets/images/sloppy-joes-2000x1067-40.png",
+                "caption": "Sloppy Joe's",
+                "active": false
+              },
+              {
+                "tags": "Other",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/zoologico-nacional-2000x1337-40-800x534-59.png",
+                "image": "@PROJECT_PATH@/assets/images/zoologico-nacional-2000x1337-40.png",
+                "caption": "Zoologico Nacional",
+                "active": false
+              }
+            ],
+            "spacing": "0",
+            "showText": true,
+            "filter": true,
+            "bgColor": "#78ccbb",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-5",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_name": "content7",
+          "_anchor": "content7-0",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": 1,
+            "bgColor": "#78ccbb"
+          },
+          "text1": "<h4><span style=\"font-weight: normal;\">…common question asked</span></h4><h5>How to get here?</h5><p>Getting to Havana´s airport. You need to have:</p><p>•A valid passport for at least one month beyond your departure date.</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">•Travel medical insurance (compulsory since May 2010).</span><br></p><p>•Evidence of enough funds to afford your stay.</p><p>•Return air ticket.</p><p>•Payment of the airport tax (25 CUC per person) compulsory for every person who leaves Cuba.</p><p><br></p><p><span style=\"color: inherit; font-family: Montserrat, sans-serif; font-size: 1.25rem; line-height: 1.1;\">Cuban Visas&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">If you intend to travel to Cuba for less than two months then you do not need a visa unless you are a business traveller or a journalist in which case you need to apply to the Cuban consulate in your country in advance of your trip.  You may instead  get a tarjeta de turista ( can be issued upon arrival in Cuba - I personally do not recommend it except in special circumstances) which can be purchased from the travel agency or airlines that sells you the ticket.</span><br></p><h5><br></h5>",
+          "text2": "<h5>When to come?</h5><p>High season  (Nov-April &amp; Jul-Aug) : Prices are higher by 30 %.Hotels and guesthouses may require advance bookings.&nbsp;</p><p>Lower relative humidity and cooler. Cuban winter is like European summer.</p><p>Best time (April &amp; Oct) : Lower prices. October belongs to the hurricane season. April is Cuban spring, perfect month to come.</p><p>Low season (May, Jun &amp; Sep): Usually rains. Hurricane risk from Jun to Nov. Cheapest prices.</p><p><br></p><h5>Where to go?</h5><p>Havana - February holds Havana´s most outstanding festival: The Jazz festival. I personally do not recommend to come over in Cuban summer unless you love the heat! October holds the Festival Internacional de Ballet. Good month to come. December holds the Festival del Nuevo Cine Latino americano.</p><p><br></p><h5><span style=\"color: inherit; font-size: 1.25rem; line-height: 1.1;\">How do we move in the city and around Cuba?</span><br></h5><p>In Havana some sights are within walking distances, for longer distances Cuba Cruising transportation should be provided.</p>",
+          "text3": "<h5><span style=\"font-size: 1.07rem; line-height: 1.5;\">Where do tours begin and is it possible to add and skip places?</span></h5><p>We start your day with delicious breakfast in your hotel or preferred accommodation.</p><p>And of course, we can add and skip places, but our tour is always taking care of what you really cannot miss!</p><p><br></p><h5><span style=\"color: inherit; font-family: Montserrat, sans-serif; font-size: 1.25rem; line-height: 1.1;\">Can you make hotel reservations?</span></h5><p>Yes, but in our travel expirience is best if we can accommodate you in a Gay Friendly casas particulares that we already carefully selected in Havana and all over Cuba. you can also kindly book your accommodation directly to rental providers or let us know if you need further assistance. We can help follow up and reconfirm your bookings to ensure smooth flow of your stay.</p><p><br></p><h5>I would like to visit other places of Cuba but I find it hard to arrange transportation and accommodations?</h5><p>This could be done either before your arrival, or once you're already in Cuba, through a meeting in your hotel or your casa or simply send us your advance request.</p><p><br></p><h5>What if my straight friend wants to join us?</h5><p>He/she will be more than welcome!&nbsp;</p><p><br></p><p><br></p>"
+        },
+        {
+          "alias": "facebook-comments",
+          "_name": "facebook-comments-block",
+          "_anchor": "facebook-comments-block-0",
+          "_params": {
+            "postsNumber": 5,
+            "bgImage": "@ADDON_DIR@facebook-comments-block/assets/comments_bg.jpg",
+            "bgImageRadio": false,
+            "bgColor": "#78ccbb",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.6,
+            "overlayColor": "#7e9b9f",
+            "socialFacebook": true,
+            "socialGoogle": false,
+            "shortName": "",
+            "socialDisqus": false
+          },
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div>"
+        },
+        {
+          "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#faedb7"
+            },
+            "SMALL": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "color": "#fac51c"
+            }
+          },
+          "_anchor": "form1-0",
+          "_params": {
+            "labelsColor": "#faedb7",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/screen-shot-2016-08-21-at-19-2000x1124-91.png",
+            "bgColor": "#3d8eb9",
+            "bgColorRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.5",
+            "overlayColor": "#3d8eb9",
+            "showTitle": true,
+            "showSubTitle": true
+          },
+          "title": "Cuba Cruising",
+          "subtitle": "Please let us know any need you have.",
+          "form": {
+            "action": "cubacruising@gmail.com",
+            "alerts": {
+              "success": "Thanks for contacting us! We`ll get in touch sooner than you think!!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "BUYING or PERSONALIZING tours? Questions? Suggestions? Please let us know."
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"etl-icon icon-chat mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-f",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cuba-cruising-logo-2-128x144-98.png",
+              "width": 128,
+              "active": true,
+              "link": "#top",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>\nCalle Daoiz No.29010<br>\nMatanzas Cuba",
+          "text2": "<strong>Contacts</strong><br>\nEmail: cubacruising@gmail.com<br>\nPhone: (+53) 58414334<br>",
+          "text3": "<strong>Link</strong><br>Facebook"
+        }
+      ]
+    }
+  }
+}
